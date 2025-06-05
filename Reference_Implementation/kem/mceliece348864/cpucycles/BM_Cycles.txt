@@ -1,0 +1,120 @@
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 202748
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 202944
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 202492
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 204394
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 198244
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 197786
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 205022
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 202494
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 202758
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 204782
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 415938
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 290164
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 235906
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 235262
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 281048
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 271946
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 235450
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 248700
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 241912
+******************************************************************
+
+******************************************************************
+The Berlekamp-Massey algorithm is a method for finding the shortest linear feedback shift register (LFSR) that can produce a given binary sequence. This algorithm is often used in coding theory and cryptography for error detection and correction codes.
+
+Average CPU cycles of syndrome: 300570
+******************************************************************
+

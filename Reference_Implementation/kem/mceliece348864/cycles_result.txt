@@ -1,0 +1,16 @@
+encryption
+Average CPU cycles per iteration: 189955
+decryption
+Average CPU cycles per iteration: 51150428
+encryption
+Average CPU cycles per iteration: 182625
+decryption
+Average CPU cycles per iteration: 51324429
+encryption
+Average CPU cycles per iteration: 217215
+decryption
+Average CPU cycles per iteration: 51891840
+encryption
+Average CPU cycles per iteration: 783938
+decryption
+Average CPU cycles per iteration: 67560570

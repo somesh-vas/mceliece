@@ -1,0 +1,10 @@
+Cpu cycles for keygen: 173158
+Cpu cycles for keygen: 224092
+Cpu cycles for keygen: 177732
+Cpu cycles for keygen: 208712
+Cpu cycles for keygen: 186724
+Cpu cycles for keygen: 137884
+Cpu cycles for keygen: 148526
+Cpu cycles for keygen: 172158
+Cpu cycles for keygen: 172036
+Cpu cycles for keygen: 194118
